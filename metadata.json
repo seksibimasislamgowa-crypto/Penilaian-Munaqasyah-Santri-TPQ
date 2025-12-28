@@ -1,0 +1,7 @@
+{
+  "name": "E-Munaqasyah TPQ Gowa",
+  "description": "Aplikasi penilaian ujian munaqasyah santri TPQ Kantor Kementerian Agama Kabupaten Gowa dengan 7 kategori penilaian dan analisis AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
